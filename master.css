@@ -226,3 +226,134 @@ header {
   text-align: center;
 
 }
+.Featured{
+  display: flex;
+}
+.part_of_cat{
+  width: 50%;
+}
+.catalog{
+  width: 100%;
+  max-width: 580px;
+  height: 170px;
+  padding: 30px 0px;
+  display: flex;
+  flex-direction: column;
+
+}
+.food_of_catalog{
+  display: flex;
+}
+.image_of_catalog{
+  width: 170px;
+  height: 170px;
+  border-radius: 20px;
+
+}
+.inf_of_catalog{
+  width: 100%;
+  margin: 0 20px;
+
+}
+
+.hcatalog{
+  font-size: 30px;
+  width: 50px;
+
+
+}
+.hcatalog:hover{
+  color:#fc6f44;
+
+}
+.text_cat{
+  font-family: "Montserrat";
+
+}
+.button{
+  margin: 40px 0 50px 0;
+  display: flex;
+  justify-content: center;
+}
+
+
+footer{
+  height: 370px;
+  display: flex;
+  flex-direction: column;
+}
+.top_foot{
+  width: 1170px;
+  margin: 0 auto;
+  padding:0 215px 0px 215px;
+  height: 90%;
+  background-color: #fc6f44;
+  display: flex;
+  justify-content: space-between;
+
+}
+.h2.foot{
+  color: white;
+  font-family: 'Montserrat';
+  margin-bottom: 30px;
+  margin-left: 0px;
+
+}
+.Touch{
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+.foot{
+  color: white;
+  display: flex;
+
+}
+.links{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 230px;
+
+}
+.link {
+  color: white;
+
+}
+.link.on{
+  text-decoration: none;
+}
+.icon {
+  width: 40px;
+  height: 40px;
+}
+.newsletter{
+  display: flex;
+  flex-direction: column;
+}
+input{
+  width: 250px;
+  height: 40px;
+  font-size: 15px;
+  padding-left: 10px;
+
+}
+.subs{
+  padding: 10px;
+  font-size: 15px;
+  width: 150px;
+  background-color: #df4b1b;
+  color: white;
+  margin-top: 20px;
+}
+.bottom_foot{
+  background-color: #ff7f58;
+  height: 10%;
+  width: 100%;
+}
+.bot_foot{
+  color: white;
+  font-size: 15px;
+  text-align: center;
