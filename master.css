@@ -226,7 +226,7 @@ header {
   text-align: center;
 
 }
-.Featured{
+Featured{
   display: flex;
 }
 .part_of_cat{
@@ -357,3 +357,6 @@ input{
   color: white;
   font-size: 15px;
   text-align: center;
+  margin: 10px auto;
+
+}
