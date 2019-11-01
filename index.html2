@@ -1,0 +1,172 @@
+
+         Featured Menu
+       </p>
+       <div class="Featured">
+           <div class="part_of_cat">
+
+               <div class="catalog">
+                 <div class="food_of_catalog">
+                     <img src="images/salat.jpg" class="image_of_catalog" />
+                     <div class="inf_of_catalog">
+                         <p class="hcatalog">
+                           Salat
+                         </p>
+                         <p class="text_cat">
+                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                         </p>
+                     </div>
+                 </div>
+
+               </div>
+               <div class="catalog">
+                 <div class="food_of_catalog">
+                     <img src="images/shashlyk.jpg" class="image_of_catalog" />
+                     <div class="inf_of_catalog">
+                         <p class="hcatalog">
+                           Salat
+                         </p>
+                         <p class="text_cat">
+                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                         </p>
+                     </div>
+                 </div>
+
+               </div>
+               <div class="catalog">
+                 <div class="food_of_catalog">
+                     <img src="images/tamak.jpg" class="image_of_catalog" />
+                     <div class="inf_of_catalog">
+                         <p class="hcatalog">
+                           Salat
+                         </p>
+                         <p class="text_cat">
+                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                         </p>
+                     </div>
+                 </div>
+
+           </div>
+
+         </div>
+         <div class="part_of_cat">
+           <div class="catalog">
+             <div class="food_of_catalog">
+                 <img src="images/XXL.jpg" class="image_of_catalog" />
+                 <div class="inf_of_catalog">
+                     <p class="hcatalog">
+                       Pizza
+                     </p>
+                     <p class="text_cat">
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                     </p>
+                 </div>
+             </div>
+
+           </div>
+           <div class="catalog">
+             <div class="food_of_catalog">
+                 <img src="images/orig.jpg" class="image_of_catalog" />
+                 <div class="inf_of_catalog">
+                     <p class="hcatalog">
+                       Steak
+                     </p>
+                     <p class="text_cat">
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                     </p>
+                 </div>
+             </div>
+
+           </div>
+           <div class="catalog">
+             <div class="food_of_catalog">
+                 <img src="images/burger.jpg" class="image_of_catalog" />
+                 <div class="inf_of_catalog">
+                     <p href="#"class="hcatalog">
+                       Burger
+                     </p>
+                     <p class="text_cat">
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                     </p>
+                 </div>
+             </div>
+
+       </div>
+
+     </div>
+         </div>
+         <div class="button">
+           <button class="order see">See All</button>
+
+         </div>
+         <p class="h1">
+           Testimonials
+         </p>
+
+       </div>
+
+
+</div>
+
+
+
+<footer>
+  <div class="top_foot">
+
+
+
+          <div class="Touch">
+            <p class="h2 foot">Get in Touch</p>
+            <div class="foot">
+              <i class="material-icons">navigation</i>
+              <p>34234 Golf Course Road,
+              Avenue,US</p>
+            </div>
+            <div class="foot">
+                <i class="material-icons">stay_primary_portrait</i>
+                <p>Telephone +1 809 869 4658</p>
+            </div>
+            <div class="foot">
+              <i class="material-icons">print</i>
+              <p>FAX +1 809 786</p>
+            </div>
+            <div class="foot">
+              <i class="material-icons">email</i>
+              <p>Email:</p> <a href="#" class="link">mail@yourdomain.com</a>
+            </div>
+
+          </div>
+
+          <div class="links">
+            <p class="h2 foot">Useful Links</p>
+            <a href="#" class="link on" >Home</a>
+            <a href="#" class="link on">About Us</a>
+            <a href="#" class="link on">Menu</a>
+            <a href="#" class="link on">Services</a>
+            <a href="#" class="link on">Contact</a>
+
+          </div>
+          <div class="follow">
+            <p class="h2 foot">Follow Us</p>
+            <img src="images/facebook.png"class="icon" />
+            <img src="images/twitter.png" class="icon" />
+            <img src="images/google+.png" class="icon" />
+
+          </div>
+          <div class="newsletter">
+            <p class="h2 foot">Newsletter</p>
+            <input type="text" placeholder="Email id">
+            <button type="button" class="subs">Subscribe</button>
+
+          </div>
+
+  </div>
+  <div class="bottom_foot">
+    <p class="bot_foot">
+    Spicy Restaurant.©.Privacy Policy
+    </p>
+  </div>
+
+
+</footer>
+</body>
+</html>
